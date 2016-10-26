@@ -23,12 +23,6 @@ BOM
 - 4x M2.5 10mm screws
 - 4x M2.5 screw nuts
 
-Visicut color-mapping
----------------------
-
-If you use Visicut (https://github.com/t-oster/VisiCut) you can find a working color-mapping under 
-[visicut/raspberrypi-b-plus-case.xml](visicut/raspberrypi-b-plus-case.xml)
-
 License
 -------
 
